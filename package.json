@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@types/node": "^16.18.126"
+    "@types/node": "^18.0.0"
   },
   "engines": {
     "node": "^16.0.0"
