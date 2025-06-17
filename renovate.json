@@ -12,5 +12,5 @@
       "groupName": "python"
     }
   ],
-  "rangeStrategy": "replace"
+  "rangeStrategy": "widen"
 }
