@@ -11,10 +11,6 @@
       "pinDigests": true
     },
     {
-      "matchCategories": ["poetry"],
-      "groupName": "python"
-    },
-    {
       "matchFileNames": [
         "pyproject.toml"
       ],
