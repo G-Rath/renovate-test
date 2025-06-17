@@ -13,6 +13,12 @@
     {
       "matchCategories": ["poetry"],
       "groupName": "python"
+    },
+    {
+      "matchFileNames": [
+        "pyproject.toml"
+      ],
+      "groupName": "python"
     }
   ]
 }
