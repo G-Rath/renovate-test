@@ -12,5 +12,6 @@
       "rangeStrategy": "update-lockfile",
       "groupName": "python"
     }
-  ]
+  ],
+  "rangeStrategy": "update-lockfile"
 }
