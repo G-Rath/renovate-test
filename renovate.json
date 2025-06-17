@@ -3,5 +3,13 @@
   "extends": [
     "config:recommended"
   ],
-  "lockFileMaintenance": { "enabled": true }
+  "lockFileMaintenance": { "enabled": true },
+  "packageRules": [
+    {
+      "matchFileNames": [
+        "pyproject.toml"
+      ],
+      "groupName": "python"
+    }
+  ]
 }
