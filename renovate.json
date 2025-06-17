@@ -4,6 +4,7 @@
   "semanticCommitType": "chore",
   "semanticCommitScope": "deps",
   "dependencyDashboard": true,
+  "extends": ["helpers:disableTypesNodeMajor"],
   "packageRules": [
     {
       "matchDepTypes": ["action"],
