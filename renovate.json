@@ -9,9 +9,8 @@
       "matchFileNames": [
         "pyproject.toml"
       ],
-      "rangeStrategy": "update-lockfile",
       "groupName": "python"
     }
   ],
-  "rangeStrategy": "update-lockfile"
+  "rangeStrategy": "pin"
 }
