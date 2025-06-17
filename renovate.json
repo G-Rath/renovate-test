@@ -4,7 +4,7 @@
   "semanticCommitType": "chore",
   "semanticCommitScope": "deps",
   "dependencyDashboard": true,
-  "extends": ["helpers:disableTypesNodeMajor", "workarounds:typesNodeVersioning"],
+  "extends": ["workarounds:typesNodeVersioning"],
   "packageRules": [
     {
       "matchDepTypes": ["action"],
