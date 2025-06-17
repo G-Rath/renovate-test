@@ -12,5 +12,5 @@
       "groupName": "python"
     }
   ],
-  "rangeStrategy": "pin"
+  "rangeStrategy": "in-range-only"
 }
